@@ -1,18 +1,17 @@
-### Hi there 👋
 
-<!--
-**yeoneeeeeeee/yeoneeeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🛠 Teck Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=#3776AB"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-7F52FF?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Gradle-00ADD8?style=flat&logo=Gradle&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring Security-A8B9CC?style=flat&logo=Spring Security&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Amazon AWS-3DDC84?style=flat&logo=Amazon AWS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-F24E1E?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/120x120/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/63ed624b-dd0c-492d-b534-5f88d1085304/public_url)
